@@ -1,20 +1,20 @@
 # codepath-ios
-# Pre-work - *Smart Tip Calculator*
+# Pre-work - *Tip Calculator*
 
-**Smart Tip Calculator** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Pratik Koirala**
 
-Time spent: **2** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [complete] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+* [X] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -28,13 +28,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/1IPb3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some difficulty in the beginning figuring out the binding of UI objects with respective variables and functions. Working with the Settings Controller to remember the default values to calculate the total amount was also a bit tricky at start. 
 
 ## License
 
